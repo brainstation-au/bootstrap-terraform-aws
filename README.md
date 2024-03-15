@@ -1,2 +1,3 @@
-# bootstrap-terraform-project
-Bootstrap a terraform project
+# bootstrap-terraform-aws
+
+Bootstrap a terraform project for AWS.
