@@ -8,6 +8,6 @@ locals {
   tags = {
     Terraform  = "true"
     GithubOrg  = local.github_org
-    Repository = local.repository
+    GithubRepo = local.repository
   }
 }
