@@ -7,3 +7,8 @@ variable "github_repository_owner" {
   type        = string
   description = "The repository owner's username. For example, octocat."
 }
+
+variable "aws_region" {
+  type        = string
+  description = "The AWS region to deploy resources."
+}
